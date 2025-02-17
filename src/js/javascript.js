@@ -12,3 +12,4 @@ playPause.addEventListener("click", () => {
         playPause.querySelector(".play-btn").classList.toggle("hide");
     }
 });
+
